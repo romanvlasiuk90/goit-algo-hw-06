@@ -1,0 +1,119 @@
+Найкоротші шляхи від Station A:
+  до Station A: 0 одиниць
+  до Station B: 5 одиниць
+  до Station C: 2 одиниць
+  до Station D: 9 одиниць
+  до Station E: 12 одиниць
+  до Station F: 20 одиниць
+  до Station G: 15 одиниць
+  до Station H: 14 одиниць
+  до Station I: 11 одиниць
+  до Station J: 7 одиниць
+
+Найкоротші шляхи від Station B:
+  до Station A: 5 одиниць
+  до Station B: 0 одиниць
+  до Station C: 7 одиниць
+  до Station D: 4 одиниць
+  до Station E: 7 одиниць
+  до Station F: 15 одиниць
+  до Station G: 20 одиниць
+  до Station H: 19 одиниць
+  до Station I: 16 одиниць
+  до Station J: 12 одиниць
+
+Найкоротші шляхи від Station C:
+  до Station A: 2 одиниць
+  до Station B: 7 одиниць
+  до Station C: 0 одиниць
+  до Station D: 7 одиниць
+  до Station E: 10 одиниць
+  до Station F: 18 одиниць
+  до Station G: 17 одиниць
+  до Station H: 16 одиниць
+  до Station I: 13 одиниць
+  до Station J: 9 одиниць
+
+Найкоротші шляхи від Station D:
+  до Station A: 9 одиниць
+  до Station B: 4 одиниць
+  до Station C: 7 одиниць
+  до Station D: 0 одиниць
+  до Station E: 3 одиниць
+  до Station F: 11 одиниць
+  до Station G: 17 одиниць
+  до Station H: 18 одиниць
+  до Station I: 20 одиниць
+  до Station J: 16 одиниць
+
+Найкоротші шляхи від Station E:
+  до Station A: 12 одиниць
+  до Station B: 7 одиниць
+  до Station C: 10 одиниць
+  до Station D: 3 одиниць
+  до Station E: 0 одиниць
+  до Station F: 8 одиниць
+  до Station G: 14 одиниць
+  до Station H: 15 одиниць
+  до Station I: 18 одиниць
+  до Station J: 19 одиниць
+
+Найкоротші шляхи від Station F:
+  до Station A: 20 одиниць
+  до Station B: 15 одиниць
+  до Station C: 18 одиниць
+  до Station D: 11 одиниць
+  до Station E: 8 одиниць
+  до Station F: 0 одиниць
+  до Station G: 6 одиниць
+  до Station H: 7 одиниць
+  до Station I: 10 одиниць
+  до Station J: 14 одиниць
+
+Найкоротші шляхи від Station G:
+  до Station A: 15 одиниць
+  до Station B: 20 одиниць
+  до Station C: 17 одиниць
+  до Station D: 17 одиниць
+  до Station E: 14 одиниць
+  до Station F: 6 одиниць
+  до Station G: 0 одиниць
+  до Station H: 1 одиниць
+  до Station I: 4 одиниць
+  до Station J: 8 одиниць
+
+Найкоротші шляхи від Station H:
+  до Station A: 14 одиниць
+  до Station B: 19 одиниць
+  до Station C: 16 одиниць
+  до Station D: 18 одиниць
+  до Station E: 15 одиниць
+  до Station F: 7 одиниць
+  до Station G: 1 одиниць
+  до Station H: 0 одиниць
+  до Station I: 3 одиниць
+  до Station J: 7 одиниць
+
+Найкоротші шляхи від Station I:
+  до Station A: 11 одиниць
+  до Station B: 16 одиниць
+  до Station C: 13 одиниць
+  до Station D: 20 одиниць
+  до Station E: 18 одиниць
+  до Station F: 10 одиниць
+  до Station G: 4 одиниць
+  до Station H: 3 одиниць
+  до Station I: 0 одиниць
+  до Station J: 4 одиниць
+
+Найкоротші шляхи від Station J:
+  до Station A: 7 одиниць
+  до Station B: 12 одиниць
+  до Station C: 9 одиниць
+  до Station D: 16 одиниць
+  до Station E: 19 одиниць
+  до Station F: 14 одиниць
+  до Station G: 8 одиниць
+  до Station H: 7 одиниць
+  до Station I: 4 одиниць
+  до Station J: 0 одиниць
